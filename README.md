@@ -8,14 +8,11 @@
 
   Footcap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://sejal-shh.github.io/shoeniverse/"><strong>➥ Live Demo</strong></a>
+  <a href="https://sejal-shh.github.io/Footcap-e-commerce-/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
