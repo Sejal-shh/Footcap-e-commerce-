@@ -1,4 +1,4 @@
-'use strict';
+'use strict'; // to execute the code in a strict manner , undeclared variables should not be present
 
 
 
@@ -6,7 +6,7 @@
  * navbar toggle
  */
 
-const overlay = document.querySelector("[data-overlay]");
+const overlay = document.querySelector("[data-overlay]");// returns the first element in a document 
 const navOpenBtn = document.querySelector("[data-nav-open-btn]");
 const navbar = document.querySelector("[data-navbar]");
 const navCloseBtn = document.querySelector("[data-nav-close-btn]");
